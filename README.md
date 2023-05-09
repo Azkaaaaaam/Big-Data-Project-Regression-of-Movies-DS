@@ -2,14 +2,21 @@
 
 
 ## Documentation
+### Reports
+[1- REPORT - Architectures for Model Deployment](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Architectures%E2%80%94%20Big%20Data%20Project%20%20(1).pdf)
 
-[1- Architectures for Model Deployment](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Architectures%E2%80%94%20Big%20Data%20Project%20%20(1).pdf)
+[2-  REPORT - Detailed documentation](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Big%20Data%20-%20Movies%20Average%20Vote%20Prediction%20-%20Azza%20Kamoun%20(1).pdf)
 
-[2- Report - Detailed documentation](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Big%20Data%20-%20Movies%20Average%20Vote%20Prediction%20-%20Azza%20Kamoun%20(1).pdf)
+[3-  REPORT - EDA - Storytelling](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/_Movies%20Storytelling%20%E2%80%94%20Big%20Data%20Project%20.pdf)
 
-[3- EDA - Storytelling](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/_Movies%20Storytelling%20%E2%80%94%20Big%20Data%20Project%20.pdf)
+### Codes
+[1- Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=links.csv)
 
-[4- Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=links.csv)
+[2- Movies Dataset Preprocessing](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46cd27610560ff81d4fd2d0ab51935377194d26f/Movies%20Dataset%20Preprocessing%20(1).ipynb)
+
+[3- EDA - Movies Dashboard](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46cd27610560ff81d4fd2d0ab51935377194d26f/%5BCode%5D%20EDA%20-%20Movies%20Dashboard.ipynb)
+
+[4- Final Regression](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46cd27610560ff81d4fd2d0ab51935377194d26f/Final%20Regression%20(1).ipynb)
 
 ## Summary
 
