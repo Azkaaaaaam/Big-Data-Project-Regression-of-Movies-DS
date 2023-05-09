@@ -3,13 +3,13 @@
 
 ## Documentation
 
-[1- Architectures for Model Deployment]([https://drive.google.com/file/d/1flTM8Mqby30gAXSRSWzf9EiVP9h_DiJw/view?usp=sharing](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Architectures%E2%80%94%20Big%20Data%20Project%20%20(1).pdf))
+[1- Architectures for Model Deployment](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Architectures%E2%80%94%20Big%20Data%20Project%20%20(1).pdf)
 
-[2- Report - Detailed documentation]([https://github.com/Azkaaaaaam/noSQL/blob/588efa1fb60bfd776c7ad0d3da6685199959cd12/realm_config.json](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Big%20Data%20-%20Movies%20Average%20Vote%20Prediction%20-%20Azza%20Kamoun%20(1).pdf))
+[2- Report - Detailed documentation](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/Big%20Data%20-%20Movies%20Average%20Vote%20Prediction%20-%20Azza%20Kamoun%20(1).pdf)
 
 [3- EDA - Storytelling](https://github.com/Azkaaaaaam/Big-Data-Project-Regression-of-Movies-DS/blob/46812faa30c1f3cdb5cb56cdd417e4cc6dafacee/_Movies%20Storytelling%20%E2%80%94%20Big%20Data%20Project%20.pdf)
 
-[4- Dataset]([https://azkaaaaaam-nosql-streamlit-app-fqbmi0.streamlit.app/](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=links.csv))
+[4- Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=links.csv)
 
 ## Summary
 
